@@ -1,6 +1,8 @@
-# LangChain_documents
+# LangChain Documents
 
-#### Gemini_API_python
+#### [LangChain_Fundamentals](https://github.com/raheelam98/LangChain_Fundamentals)
+
+### LangChain - Gemini_API_Python
 **langchain/-01_gemini_standalone/Gemini_API_python.ipynb**
 
 [learn-applied-generative-ai-fundamentals/22_langchain_ecosystem/langchain/-01_gemini_standalone
@@ -10,7 +12,7 @@
 
 [Google Colab :LangChain - Gemini API Python](https://colab.research.google.com/github/panaversity/learn-applied-generative-ai-fundamentals/blob/main/22_langchain_ecosystem/langchain/-01_gemini_standalone/Gemini_API_python.ipynb#scrollTo=e_S2uOS6q86L)
 
-#### LangChain_with_Gemini
+### LangChain_with_Gemini
 **langchain/00_gemini_langchain/LangChain_with_Gemini**
 
 [learn-applied-generative-ai-fundamentals/22_langchain_ecosystem/langchain/00_gemini_langchain
@@ -22,10 +24,12 @@
 
 
 
-# LangGraph_documents
+# LangGraph Documents
+
+#### [LangGraph_Fundamentals](https://github.com/raheelam98/LangGraph_Fundamentals)
 
 
-#### LangGraph - 00_edges_nodes_graph
+### LangGraph - 00_edges_nodes_graph
 
 **22_langchain_ecosystem/langgraph/course-notebooks/module-1/00_edges_nodes_graph**
 
@@ -36,5 +40,13 @@
 
 [Google Colab : LangGraph - 00_edges_nodes_graph](https://colab.research.google.com/github/raheelam98/LangGraph_Fundamentals/blob/main/22_langchain_ecosystem/langgraph/course-notebooks/module-1/00_edges_nodes_graph.ipynb)
 
+### LangGraph - 01_conditional_edge
+
+**22_langchain_ecosystem/langgraph/course-notebooks/module-1/01_conditional_edge**
+
+[learn-applied-generative-ai-fundamentals/22_langchain_ecosystem/langgraph/course-notebooks/module-1
+/01_conditional_edge](https://github.com/panaversity/learn-applied-generative-ai-fundamentals/blob/main/22_langchain_ecosystem/langgraph/course-notebooks/module-1/01_conditional_edge.ipynb)
+
+[Q3,Q4,Q5 - Class -13: Messages Classes, LLM Tool Call and Conditional Edges in LangGraph Explained - Oct 10, 2024](https://www.youtube.com/watch?v=Rz4mD3KMBe8&t=4016s)
 
 
